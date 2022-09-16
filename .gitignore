@@ -1,0 +1,5 @@
+.idea/
+vendor/
+covprofile
+.DS_Store
+tmp/
