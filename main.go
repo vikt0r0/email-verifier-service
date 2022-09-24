@@ -6,9 +6,9 @@ import (
   "syscall"
 
   // Make sure you change this line to match your module
-  "github.com/vikt0r0/email-verifier/apiserver"
   "github.com/sirupsen/logrus"
   "github.com/urfave/cli/v2"
+  "github.com/vikt0r0/email-verifier-service/apiserver"
 )
 
 const (
