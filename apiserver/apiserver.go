@@ -61,7 +61,7 @@ func (s *APIServer) router() http.Handler {
 
 var (
 	verifier = emailverifier.
-		NewVerifierWithEmailAndName(verifierEmail, verifierName).
+		NewVerifierWithEmailAndName(verifierFromEmail, verifierHelloName).
 		EnableSMTPCheck()
 )
 

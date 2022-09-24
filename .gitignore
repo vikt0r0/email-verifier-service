@@ -19,6 +19,3 @@ tmp/*
 
 # Go workspace file
 go.work
-
-# Constants file
-constants.go
