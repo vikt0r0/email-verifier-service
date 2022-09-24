@@ -1,0 +1,6 @@
+package main
+
+const (
+	verifierFromEmail = "your@email.here"
+	verifierHelloName = "your.mail.server.com"
+)
