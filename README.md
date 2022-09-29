@@ -35,7 +35,7 @@ If "Error" is true, a network error occured or no email get parameter was specif
 
 Also ensure that port 25 outgoing is open, otherwise the script will not be able to perform SMTP checks.
 
-Be careful that your email setup is correct, so you do not get your IP or domain name banned. A good place to check it is here [https://multirbl.valli.org/lookup/142.250.74.110.html](https://multirbl.valli.org/lookup/142.250.74.110.html).
+Be careful that your email setup is correct, so you do not get your IP or domain name banned. A good place to check it is here [https://multirbl.valli.org/lookup/142.250.74.110.html](https://multirbl.valli.org/lookup/142.250.74.110.html) (but edit the string to your IP instead).
 
 systemd daemon
 --------------
